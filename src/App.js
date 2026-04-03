@@ -1,6 +1,6 @@
 import React, { useState, useMemo } from 'react';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, PieChart, Pie, Cell } from 'recharts';
-import { Wallet, ArrowUpCircle, ArrowDownCircle, UserCircle, Search, Sun, Moon, Edit2, X, Save } from 'lucide-react';
+import { Wallet, ArrowUpCircle, ArrowDownCircle, UserCircle, Search, Sun, Moon, Edit2, X } from 'lucide-react';
 
 // Initial Mock Data
 const INITIAL_DATA = [
